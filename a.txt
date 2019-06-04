@@ -1,0 +1,6 @@
+this is mmy sample a.txt file
+
+abc
+bb
+bmm
+oop
